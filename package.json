@@ -1,0 +1,27 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "Project Generator in NodeJS",
+  "main": "new.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopezfjose/NPG.git"
+  },
+  "keywords": [
+    "files",
+    "project",
+    "generator"
+  ],
+  "author": "Jose Fernando Lopez Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopezfjose/NPG/issues"
+  },
+  "homepage": "https://github.com/lopezfjose/NPG#readme"
+}
